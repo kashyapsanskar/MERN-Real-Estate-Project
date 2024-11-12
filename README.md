@@ -1,5 +1,5 @@
 # MERN-Real-Estate-Project
-Serene Retreats - Real Estate Rental Website
+Midas Estate - Real Estate Rental Website
 Overview
 Serene Retreats is a feature-rich real estate rental website designed to provide a seamless and intuitive experience for users looking to explore and manage property listings. The platform offers secure user authentication, private profile management, and full CRUD operations for property listings.
 
